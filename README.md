@@ -1,21 +1,24 @@
 # Data Structures & Algorithms in C++
 
 This repository contains my daily practice of Data Structures and Algorithms
-implemented in C++ for interview preparation.
+implemented in C++ as part of my preparation for software engineering internships.
 
 ## Topics Covered
 - Arrays
-- Strings
-- Hashing
-- Two Pointers
-- Stack
-- Queue
-- Linked List
-- Trees
-- Graphs
 
-## Language
-- C++
+## Code Style
+Each solution includes:
+- Problem description
+- Approach explanation
+- Time & Space Complexity
+- Clean and readable C++ code
 
-## Goal
-To build strong DSA fundamentals and prepare for software engineering internships.
+## Goals
+- Build strong problem-solving skills
+- Master DSA fundamentals
+- Prepare for Google and other top tech interviews
+
+## Progress
+- Problems solved: 1
+- Language: C++
+
