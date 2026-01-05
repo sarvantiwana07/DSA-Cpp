@@ -6,6 +6,7 @@ implemented in C++ as part of my preparation for software engineering internship
 ## Topics Covered
 - Arrays
 - Strings
+- Hashing
 
 ## Code Style
 Each solution includes:
@@ -20,6 +21,6 @@ Each solution includes:
 - Prepare for Google and other top tech interviews
 
 ## Progress
-- Problems solved: 11
+- Problems solved: 12
 - Language: C++
 
