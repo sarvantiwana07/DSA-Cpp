@@ -21,6 +21,6 @@ Each solution includes:
 - Prepare for Google and other top tech interviews
 
 ## Progress
-- Problems solved: 12
+- Problems solved: 13
 - Language: C++
 
